@@ -21,4 +21,4 @@ Retourne la chaine de caractère reçue.
 Envoi au serveur la chaine de caractère envoyé à la fonction.
 
 
-Retrouver dans example un main de test.
+Retrouver dans Sample un main de test.
